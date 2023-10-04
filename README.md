@@ -6,6 +6,8 @@ Mi interés se centra en la programación y en el desarrollo web.
 ## Lenguajes de programación y otras herramientas:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./img/visual_studio_code.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="./img/java" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="./img/python.png" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="./img/html.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="./img/css.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="./img/js.svg" style="padding-right:10px;" />
