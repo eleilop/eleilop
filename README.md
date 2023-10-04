@@ -11,6 +11,8 @@ Mi interés se centra en la programación y en el desarrollo web.
 <img align="left" alt="HTML5" width="26px" src="./img/html.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="./img/css.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="./img/js.svg" style="padding-right:10px;" />
+<img align="left" alt="Terraform" width="26px" src="./img/terraform.default" style="padding-right:10px;" />
+<img align="left" alt="WordPress" width="26px" src="./img/wordpress.png" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="./img/mysql.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="./img/git.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="./img/github.png" style="padding-right:10px;" />
