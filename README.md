@@ -3,7 +3,12 @@
 Soy un estudiante de DAM en [CPIFP Nuevo (Desglose de IES Campanillas)](https://fp.iescampanillas.com) apasionado por el mundo de la tecnología.  
 Mi interés se centra en la programación y en el desarrollo web.
 
-## Lenguajes de programación y otras herramientas:
+## Objetivos 2023: 🎯
+* Profundizar mis conocimientos en Java 🧠
+* Desarrollar una Web con nuevas funciones ⚙
+* Seguir mejorando mi inglés 📚
+
+## Lenguajes de programación y herramientas: 🧰
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./img/visual_studio_code.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="./img/java.png" style="padding-right:10px;" />
@@ -18,7 +23,7 @@ Mi interés se centra en la programación y en el desarrollo web.
 <img align="left" alt="GitHub" width="26px" src="./img/github.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal_dark.svg" /><br><br>
 
-## Sígueme:
+## Sígueme: 🔎
 
 [<img align="left" alt="LinkedIn" width="26px" src="./img/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/eloy-leiva-lópez-8255b1238/)
 [<img align="left" alt="Instagram" width="26px" src="./img/instagram.svg" style="padding-right:10px;" />](https://www.instagram.com/eloyleiva_2005/)
