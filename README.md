@@ -14,7 +14,7 @@ Mi interés se centra en la programación usando lenguajes como _**Java**_ y _**
 <img align="left" alt="GitHub" width="26px" src="./img/github.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal_dark.svg" />
 
-## Sígueme:
+ ## Sígueme:
 
 [<img align="left" alt="LinkedIn" width="26px" src="./img/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/eloy-leiva-lópez-8255b1238/)
 [<img align="left" alt="Instagram" width="26px" src="./img/instagram.svg" style="padding-right:10px;" />](https://www.instagram.com/eloyleiva_2005/)
