@@ -12,7 +12,7 @@ Mi interés se centra en la programación usando lenguajes como _**Java**_ y _**
 <img align="left" alt="MySQL" width="26px" src="./img/mysql.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="./img/git.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="./img/github.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal_dark.svg" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal_dark.svg" /><br>
 
 <h2>Sígueme:</h2>
 
