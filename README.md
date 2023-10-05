@@ -27,5 +27,3 @@ Mi interés se centra en la programación y en el desarrollo web.
 
 [<img align="left" alt="LinkedIn" width="26px" src="./img/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/eloy-leiva-lópez-8255b1238/)
 [<img align="left" alt="Instagram" width="26px" src="./img/instagram.svg" style="padding-right:10px;" />](https://www.instagram.com/eloyleiva_2005/)
-
-![HTML5](./img/terminal_dark.svg)
