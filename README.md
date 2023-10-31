@@ -1,6 +1,6 @@
 # ¡Hola! Soy Eloy Leiva López 👋🧑‍💻
 
-Soy un estudiante de DAM en [CPIFP Nuevo (Desglose de IES Campanillas)](https://fp.iescampanillas.com) apasionado por el mundo de la tecnología.  
+Soy un estudiante de DAM en [CPIFP Alan Turing](https://fp.iescampanillas.com) apasionado por el mundo de la tecnología.  
 Mi interés se centra en la programación y en el desarrollo web.
 
 ## Objetivos 2023: 🎯
