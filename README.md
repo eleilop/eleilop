@@ -5,7 +5,7 @@ Mi interés se centra en la programación y en el desarrollo web.
 
 ## Objetivos 2023: 🎯
 * Profundizar mis conocimientos en Java 🧠
-* Desarrollar una Web con nuevas funciones ⚙
+* Desarrollar Webs con nuevas funciones ⚙
 * Seguir mejorando mi inglés 📚
 
 ## Lenguajes de programación y herramientas: 🧰
