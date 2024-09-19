@@ -13,7 +13,7 @@ Mi interés se centra en la programación y en el desarrollo de aplicaciones mó
 <img align="left" alt="Kotlin" width="26px" src="./img/kotlin.png" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="./img/typescript.png" style="padding-right:10px;" />
 <img align="left" alt="Angular" width="26px" src="./img/angular.png" style="padding-right:10px;" />
-<img align="left" alt="Ionic" width="26px" src="./img/typescript.png" style="padding-right:10px;" />
+<img align="left" alt="Ionic" width="26px" src="./img/ionic.png" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="./img/java.png" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="./img/js.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="./img/python.png" style="padding-right:10px;" />
