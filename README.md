@@ -1,11 +1,11 @@
 # ¡Hola! Soy Eloy Leiva López 👋🧑‍💻
 
-Soy un estudiante de DAM en [CPIFP Alan Turing](https://fp.iescampanillas.com) apasionado por el mundo de la tecnología.  
-Mi interés se centra en la programación y en el desarrollo de aplicaciones móviles.
+Soy un desarrollador apasionado por el mundo de la tecnología.  
+Mi interés se centra en la programación y en el desarrollo de aplicaciones web.
 
 ## Objetivos 2024: 🎯
 * Aprender nuevos lenguajes de programación 🧠
-* Desarrollar aplicaciones móviles para Android ⚙
+* Desarrollar aplicaciones web ⚙
 * Seguir mejorando mi inglés 📚
 
 ## Lenguajes de programación y herramientas: 🧰
